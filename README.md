@@ -1,3 +1,6 @@
+
+![Screenshot 2024-09-10 at 5 34 24 p m](https://github.com/user-attachments/assets/a567af0b-c419-4928-93c4-6236dcc3a182)
+
 # Counter with limits
 
 ## Description:
